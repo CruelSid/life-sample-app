@@ -88,9 +88,9 @@
   </properties>
 
   <scm> <!-- EDIT HERE @fadhlanwasim !!!!!!-->
-	  <url>https://github.com/CruelSid/oc-sample-app</url>
-	  <connection>scm:git:git://github.com/CruelSid/oc-sample-app.git</connection>
-	  <developerConnection>scm:git:ssh://git@github.com/CruelSid/oc-sample-app.git</developerConnection>
+	  <url>https://github.com/CruelSid/life-sample-app</url>
+	  <connection>scm:git:git://github.com/CruelSid/life-sample-app.git</connection>
+	  <developerConnection>scm:git:ssh://git@github.com/CruelSid/life-sample-app.git</developerConnection>
 	  <tag>HEAD</tag>
 	</scm>
 
